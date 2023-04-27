@@ -1,0 +1,27 @@
+# app
+fastapi
+uvicorn
+pydantic
+
+# db
+SQLAlchemy==1.4.27
+psycopg2-binary==2.9.2
+
+# auth
+fastapi-jwt-auth
+bcrypt
+
+# Fake data
+faker
+
+# dev
+pytest==6.2.5
+pytest-asyncio==0.14.0
+async_asgi_testclient==1.4.7
+flake8
+tox
+pylint
+mypy
+isort
+black
+pycountry
