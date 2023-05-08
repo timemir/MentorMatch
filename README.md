@@ -51,7 +51,7 @@ In order to setup the project, please proceed as follows:
 1. First, you need to clone this repository with the following git command, while being in your desired directory:
 
 ```bash
-  git clone https://github.com/TechLabs-Dortmund/mentor-matching.git
+  git clone https://github.com/timemir/MentorMatch.git
 ```
 
 2. Then you need to change your directory into the newly created folder called ```mentor-matching``` with the following command:
